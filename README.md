@@ -1,1 +1,1 @@
-# odin_recipes
+Learned how to create a simple website with several links, adding photos, unnumbered and numbered lists# odin_recipes
