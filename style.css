@@ -24,8 +24,6 @@ img {
     background-color: rgb(201, 200, 152);
     height: 30px;
     width: 150px;
-    box-sizing: border-box;
-    display: block;
     margin: 8px auto;
 }
 
@@ -33,5 +31,52 @@ img {
     background-color: rgb(219, 219, 173);
     width: 500px;
     margin: 0px auto;
-    padding: 0px 8px;
+    padding: 8px 8px;
+}
+
+.ingrid {
+    margin: 8px auto;
+    width: 510px;
+}
+
+.steps {
+    text-align: center;
+    background-color: rgb(201, 200, 152);
+    height: 25px;
+    width: 70px;
+    display: block;
+    margin: 8px auto;
+}
+
+.childstep {
+    width: 500px;
+    margin: 0px auto;
+    padding: 8px 8px;
+}
+
+.link {
+   text-align: center;
+    height: 40px;
+    width: 110px;
+    display: block;
+    margin: 8px auto;
+}
+
+.firstp2 {
+    text-align: center;
+    background-color: rgb(214, 213, 119);
+    height: 40px;
+    width: 350px;
+    box-sizing: border-box;
+    display: block;
+    margin: 8px auto;
+}
+.firstp3 {
+    text-align: center;
+    background-color: rgb(214, 213, 119);
+    height: 40px;
+    width: 450px;
+    box-sizing: border-box;
+    display: block;
+    margin: 8px auto;
 }
